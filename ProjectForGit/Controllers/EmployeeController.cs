@@ -13,5 +13,10 @@ namespace ProjectForGit.Controllers
         {
             return View();
         }
+      public ActionResult Display()
+        {
+            return View();
+        }
+    
     }
 }
