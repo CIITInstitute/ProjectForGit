@@ -26,8 +26,7 @@ namespace ProjectForGit.Controllers
 
             return View();
         }
-        
-                public ActionResult git()
+         public ActionResult git()
         {
             return View();
         }
